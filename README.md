@@ -10,7 +10,7 @@
   <img align="center" alt="barbara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="barbara-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="barbara-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="barbara-emoji" height="125" width="125" src="https://im6.ezgif.com/tmp/ezgif-6-7c8aab0ed1f7.gif">
+  
  </div>
   
   ##
