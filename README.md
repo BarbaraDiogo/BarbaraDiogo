@@ -1,8 +1,18 @@
-##Oiii! Eu sou a Barbara Diogo.
+## Olá! Eu sou a Barbara Diogo.
 
 <div>
   <a href="https://github.com/BarbaraDiogo">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=BarbaraDiogo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=BarbaraDiogo&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=BarbaraDiogo&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=BarbaraDiogo&show_icons=true" />
+  </picture>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraDiogo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br> 
@@ -18,8 +28,6 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/barbara-diogoccp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/BarbaraDiogo/BarbaraDiogo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
